@@ -3,5 +3,5 @@ padding :9;
 margin :10;
 }
 footer{
-font.size:6px;
+font.size:4px;
 }
